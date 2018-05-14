@@ -1,4 +1,4 @@
-![alt text](https://github.com/momentoscope/momentoscope.github.io/blob/master/source/Background.jpg)
+![alt text](https://github.com/momentoscope/momentoscope.github.io/blob/master/source/Background.jpg){:class="img-responsive"}
 
 Current projects
 
