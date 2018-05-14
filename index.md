@@ -1,8 +1,6 @@
-```
 ![alt text](https://github.com/momentoscope/momentoscope.github.io/blob/master/source/Background.jpg)
-```
 
-
+Current projects
 
 **hextof-processor**
 
